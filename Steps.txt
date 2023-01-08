@@ -1,0 +1,17 @@
+1. Problem statement
+2. Hypothesis generation
+3. Getting the system ready and loading the data.
+4. Understanding the data
+5. Exploratory Data Analysis (EDA)
+-> Univariate analysis
+-> Bivariate analysis
+6. Missing value and outlier treatment
+7. Evaluation metrics for classification problems
+8. Model building: Part 1
+9. Logistic Regression using stratified k-folds cross validation
+10. Feature engineering
+11. Model building: Part 2
+-> Logistic regression
+-> Decision tree
+-> Random forest
+-> XGBoost
